@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  polkadot-k8s-payouts:
+  - apiVersion: v2
+    created: "2021-07-28T18:15:21.790878+02:00"
+    description: Polkadot K8s Payouts
+    digest: 6d8d45d80ec59ff6612663d13e591d1c67e4d341e4e5494eeeceda1846b6a380
+    name: polkadot-k8s-payouts
+    urls:
+    - polkadot-k8s-payouts/polkadot-k8s-payouts-v0.1.0.tgz
+    version: v0.1.0
+generated: "2021-07-28T18:15:21.790163+02:00"
